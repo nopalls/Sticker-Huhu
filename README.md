@@ -8,7 +8,7 @@ This project require NodeJS v12.
 Clone this project
 
 ```bash
-> git clone https://github.com/nopalls/Stiker-Huhu.git
+> git clone https://github.com/nopalls/Sticker-Huhu.git
 > cd StikerImage
 
 ```
