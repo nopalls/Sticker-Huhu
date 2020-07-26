@@ -8,8 +8,8 @@ This project require NodeJS v12.
 Clone this project
 
 ```bash
-> git clone https://github.com/YogaSakti/imageToSticker.git
-> cd imageToSticker
+> git clone https://github.com/nopalls/Stiker-Huhu.git
+> cd StikerImage
 
 ```
 
