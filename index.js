@@ -82,7 +82,7 @@ async function msgHandler (client, message) {
                     }
                     break
                 case '#halo':
-                        client.sendText(from, 'Hai')
+                        client.sendText(from, 'Hai,Welcome to my bot 💙.')
                     break
             }
         } else {
