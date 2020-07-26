@@ -9,7 +9,7 @@ Clone this project
 
 ```bash
 > git clone https://github.com/nopalls/Sticker-Huhu.git
-> cd StikerImage
+> cd Sticker-Huhu
 
 ```
 
