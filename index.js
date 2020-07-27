@@ -82,7 +82,7 @@ async function msgHandler (client, message) {
                     }
                     break
                 case '#halo':
-                        client.sendText(from, 'Hai, Welcome to my bot 💙. Untuk penggunaan dengan cara kirim gambar dengan caption #sticker/#stiker.')
+                        client.sendText(from, 'Hai, Welcome to my bot 💙. Untuk penggunaan dengan cara kirim gambar dengan caption #sticker/#stiker. Bot by _swallowtail_ x _shinichi_ ')
                     break
             }
         } else {
